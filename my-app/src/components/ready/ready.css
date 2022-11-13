@@ -1,0 +1,30 @@
+body{
+    color: white;
+}
+.lines{
+    font-size: 2rem;
+    margin-left: 50px;
+}
+#light .lines{
+    color: black;
+}
+.display-div{
+    display: flex;
+    /* height: 00px; */
+    
+}
+.card{
+    /* margin-top: 20px; */
+    width: 25%;
+    background-color: rgb(24, 24, 24);
+    height: 300px;
+    /* width:450px; */
+    padding: 10px;
+    border: 1px solid rgb(36, 36, 36);
+    border-radius: 20px;
+    margin: 20px 10px 10px 10px;
+    
+}
+.mainline{
+    margin: 50px 10px;
+}

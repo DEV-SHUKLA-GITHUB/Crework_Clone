@@ -1,0 +1,20 @@
+.card-div{
+        /* width: 100%; */
+        background-color: rgb(24, 24, 24);
+        height: 300px;
+        width:450px;
+        /* padding: 10px; */
+        border: 1px solid rgb(36, 36, 36);
+        border-radius: 20px;
+        margin: 20px 10px 10px 10px;
+        display: flex;
+        flex: auto;
+}
+.display-div{
+    display: flex;
+    height: 400px;
+}
+.heading-line{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,32 @@
+.icon-dot{
+    font-size: 50px;
+    color: orange;
+}
+.logo{
+    color: white;
+    width: 50%;
+    padding-left: 50px;
+}
+#light .logo{
+    color: black;
+}
+li {
+    list-style-type: none;
+    margin-left: 50px;
+    color: inherit;
+    /* background-color: white; */
+    width: 100px;
+}
+.nav-items{
+    list-style-type: none;
+    color: white;
+}
+#light .nav-items{
+    color: black;
+}
+.nav-div ,ul{
+    display: flex;
+}
+ul{
+    margin-top: 20px;
+}
